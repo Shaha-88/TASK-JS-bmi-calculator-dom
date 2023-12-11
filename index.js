@@ -14,8 +14,9 @@ function calculateBMI() {
 
   alert(BMI);
 
-   if(BMI<18.5){alert("underweight");}
-   elseif(BMI>=18.5 && BMI(24.9)){alert("Normalweight");
+   if(BMI<18.5){alert("underweight");
+  }
+   elseif(BMI>=18.5 && BMI(24.9)){}alert("Normalweight");
   }
    elseif(BMI>=25 && BMI>=29.9){alert("overweight");
   }
